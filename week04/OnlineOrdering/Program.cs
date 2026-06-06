@@ -46,4 +46,4 @@ Console.WriteLine(order2.GetPackingLabel());
 Console.WriteLine("\nShipping Label:");
 Console.WriteLine(order2.GetShippingLabel());
 
-Console.WriteLine($"\nTotal Cost: {order2.CalculateTotalCost()}");
+Console.WriteLine($"\nTotal Cost: {order2.CalculateTotalCost()}");  
